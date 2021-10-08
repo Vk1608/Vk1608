@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vk1608
-- 😎 My full name  is Vikram
+- 😎 My full name  is Vikram (ya, that's full)
 - 👀 I’m interested in App-Development, machine Learning and CyberSecurity
 - 🌱 I’m currently learning ML and app Development
 - 💞️ I’m looking to collaborate on ...
