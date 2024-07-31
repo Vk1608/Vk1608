@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vk1608
 - 😎 My full name  is Vikram (ya, that's full)
-- 👀 I’m interested in Web-Development, machine Learning and CyberSecurity
-- 🌱 I’m currently learning ML and Web Development
+- 👀 I’m interested in Web-Development and CyberSecurity
+- 🌱 I’m currently learning Cybersecurity and Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me at vk1608rocks@gmail.com
 
